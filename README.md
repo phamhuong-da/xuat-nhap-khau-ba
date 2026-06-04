@@ -40,7 +40,7 @@ Tôi đảm nhận toàn bộ phân tích và đặc tả 3 chức năng:
 
 | File | Mô tả |
 |---|---|
-| [`documents/SRS-Quy-doi-Ngoai-te-Quan-ly-Ky-Bang-ke-v1.1.docx`](documents/SRS-Quy-doi-Ngoai-te-Quan-ly-Ky-Bang-ke-v1.1.docx) | Tài liệu SRS đầy đủ — Use Case, Business Rules, Data Mapping, Mockup spec |
+| [`documents/SRS-Quy-doi-Ngoai-te-Quan-ly-Ky-Bang-ke-v1.1.pdf`](documents/SRS-Quy-doi-Ngoai-te-Quan-ly-Ky-Bang-ke-v1.1.pdf) | Tài liệu SRS đầy đủ — Use Case, Business Rules, Data Mapping, Mockup spec |
 | [`documents/use-cases-summary.md`](documents/use-cases-summary.md) | Tóm tắt 3 Use Case chính, luồng ngoại lệ, bảng trường dữ liệu |
 
 ---
